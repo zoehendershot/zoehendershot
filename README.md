@@ -1,16 +1,16 @@
+# Hi, I’m Zoe 👋
 
+Data Science student at the University of Virginia working to turn messy, real-world data into meaningful insights.
 
-<!--
-**zoehendershot/zoehendershot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I work on
+- Data engineering pipelines & workflows  
+- Machine learning & predictive modeling  
+- Analytics & visualization  
 
-Here are some ideas to get you started:
+## Tech
+Python • R • SQL • pandas • scikit-learn • DuckDB • DBT • Prefect • AWS • Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+🔹 **Obesity Classification Model** — supervised ML classification pipeline  
+🔹 **Stroke Risk Prediction** — modeling on imbalanced real-world data  
+🔹 **Event-Driven Processing** — real-time streaming analytics dashboard  
